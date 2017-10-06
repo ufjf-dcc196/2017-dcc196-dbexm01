@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DCC196 SQLIntro</string>
+    <string name="cria_tabela">Cria Tabela</string>
+    <string name="exclui_tabela">Exclui Tabela</string>
+    <string name="insere_registro">Insere registro</string>
+    <string name="listar_registros">Listar Registros</string>
+    <string name="excluir_registros">Excluir Registros</string>
+    <string name="atualizar_registros">Atualizar Registros</string>
+</resources>
